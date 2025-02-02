@@ -29,6 +29,9 @@ VerifyX follows a structured approach to detect fake news:
 - Adversarial training is performed using the Fast Gradient Sign Method (FGSM) to improve model robustness.
 
 6. Adversarial Training: Perturbed data is generated to challenge the models, making them more reliable.
+
+Get glove.6B.100d from here - https://drive.google.com/file/d/1QFdkeK3a3mu5at6Ocq1sxIuHzSdXl_15/view?usp=sharing
+
 ![image](https://github.com/user-attachments/assets/5ffec207-a9f9-4cc4-b575-e03b28a627bd)
 
 ## Model Performance Metrics
