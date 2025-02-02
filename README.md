@@ -50,3 +50,6 @@ Get glove.6B.100d from here - https://drive.google.com/file/d/1QFdkeK3a3mu5at6Oc
 | DeBERTa            | 0.943764  | 0.944176  | 0.943764 | 0.943781 |
 | Longformer         | 0.435857  | 0.424461  | 0.435857 | 0.396374 |
 
+## Authors
+
+- [@iaayushmaan](https://www.github.com/iaayushmaan)
